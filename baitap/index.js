@@ -1,1 +1,2 @@
-Hello Wordl
+// Hello Wordl
+// hiền js
